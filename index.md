@@ -3,12 +3,12 @@ layout: about
 ---
 <br/>
 
-🙋🏽 I recently defended a PhD thesis in algebraic combinatorics. I am learning to code in Python for doing machine learning algorithms. 
+🙋🏽 I recently (December 2022) defended a PhD thesis in algebraic combinatorics. I'm learning to code in Python for doing machine learning algorithms. 
 
 🌎 I live in Reims, France. I was born and grew up in Colombia.
 
 ---
-📬 To get in touch you can write to me: ana.bernal [at] univ-reims [dot] fr
+✉️ To get in touch you can write to: ana.bernal [at] univ-reims [dot] fr
 
 [🐱 Link](https://github.com/ana-bernal) to my github profile.
 
@@ -24,7 +24,7 @@ I studied bijections relating combinatorial objects, such as integer [partitions
 
 📖 My PhD thesis can be found [here](https://tel.archives-ouvertes.fr/tel-03482899). A github repository with a list of GAP 3 functions related to this work can be found [here](https://github.com/ana-bernal/self-Mullineux-SUBS). 
 
-📕 **Publications**:
+#### 📕 Publications:
 
 - Unitriangular basic sets for blocks of the symmetric and alternating groups of small weights. [Link to article](https://www.sciencedirect.com/science/article/pii/S0021869321006402?casa_token=jetn48FQFaQAAAAA:qDIpDRey3AV5Ozw9d-7DUC8cBNtd3x9yT9-npkJbfxAHKziNNltmVjSoB9xRBx30Dp06zCwrhg)
 - On Self-Mullineux and Self-Conjugate Partitions. [Link to article](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p57)
