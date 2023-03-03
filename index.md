@@ -3,7 +3,7 @@ layout: about
 ---
 <br/>
 
-🙋🏽 I recently (December 2022) defended a PhD thesis in algebraic combinatorics. I'm learning to code in Python for doing machine learning algorithms. 
+🙋🏽 I recently (December 2021) defended a PhD thesis in algebraic combinatorics. I'm learning to code in Python for doing machine learning algorithms. 
 
 🌎 I live in Reims, France. I was born and grew up in Colombia.
 
