@@ -31,7 +31,7 @@ I studied bijections relating combinatorial objects, such as integer [partitions
 
 ***
 
-Last updated: 2022-05-04
+Last updated: 2023-03-03
 
 <!-- # Career
 * Second Company (2012/01 ~ )
