@@ -11,6 +11,7 @@ body {
     color: #444;
 }
 
+/* navigation bar */
 nav {
     margin-bottom:40px;
 }
@@ -20,6 +21,7 @@ nav a {
     color:rgb(216, 100, 32);
 }
 
+/* headers */
 h1 {
     color: #3d3d3d;
 }
@@ -34,6 +36,8 @@ hgroup {
     margin-bottom: 40px;
 }
 
+
+/* page titles */
 .header h1,h2 {
     display: inline-block;
 }
@@ -46,3 +50,9 @@ hgroup {
 .page {
     text-align: left;
   }
+
+/* links */
+
+a {
+    color:
+}
